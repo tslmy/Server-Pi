@@ -1,0 +1,1 @@
+This is a simple list of the portals to (most of) the features on the server. Put all these files on your /var/www directory.
